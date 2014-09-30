@@ -1,0 +1,1 @@
+:so vimrc:call StartR('R') 
